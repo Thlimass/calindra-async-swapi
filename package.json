@@ -1,0 +1,27 @@
+{
+  "name": "calindra-async-swapi",
+  "version": "1.0.0",
+  "description": "## Introdução",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thlimass/calindra-async-swapi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thlimass/calindra-async-swapi/issues"
+  },
+  "homepage": "https://github.com/Thlimass/calindra-async-swapi#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4",
+    "sucrase": "^3.15.0"
+  }
+}
